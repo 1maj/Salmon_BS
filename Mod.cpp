@@ -1,0 +1,10 @@
+name = "Salmon Buttstroke";
+picture = "Salmon_bs\data\salmon_bs.paa";
+logo = "Salmon_bs\data\salmon_bs_64.paa"; 
+logoOver = "Salmon_bs\data\salmon_bs_64.paa"; 
+tooltip = "Salmon Buttstroke"; 
+actionName = "Salmon";
+action = "http://TacSalmon.me";
+author= "Green";
+description = "Allows you to knock people out";
+overview = "Bind a key using CBA and start knocking people out. Has CBA settings for ragdoll and friendly fire<br />INFO:<br />Made for TacSalmon ArmA group<br />TacSalmon.me (Steam Group)<br />unit.TacSalmon.me (Unit Page)<br />ts.TacSalmon.me (Teamspeak)<br />d.TacSalmon.me (Discord)";
