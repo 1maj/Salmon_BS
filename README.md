@@ -23,13 +23,18 @@ Salmon Buttstroke is an unofficial modification for ArmA3 that adds lightweight 
 * Sync with knockout and animation a bit off for gameplay purposes (Might be fixed soon with setAnimSpeed). 
 
 ## Version history:
-1.0 - Initial release
-1.1:
-FIX - Image filenames
-FIX - Prefix change
-1.2:
-FIX - You no longer have to carry a rifle to knockout people with pistol
+1.0 - Initial release<br />
+1.1:<br />
+FIX - Image filenames<br />
+FIX - Prefix change<br />
+1.2:<br />
+FIX - You no longer have to carry a rifle to knockout people with pistol<br />
 FIX - Should now work fine with ace captives and unconscious
+
+## License:
+Salmon Buttstroke is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ## Credits:
 * TacSalmon community - http://TacSalmon.me/
+* ACE 3 Team - https://github.com/acemod/ACE3
+* CBA Team - https://github.com/CBATeam/CBA_A3
