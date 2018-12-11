@@ -40,6 +40,8 @@ Add: Optional ACE, mod now checks if ace is present and automatically adapts to 
 Fix: Ragdoll option only available if running ACE3.<br />
 Fix: Cleaned up configs. <br />
 Remove: ACE Dependency. 
+1.3.1
+Fix: Fixed configs, no more "no entry" errors.
 
 ### Credits:
 * TacSalmon community - http://TacSalmon.me/
